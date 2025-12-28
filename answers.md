@@ -3,3 +3,4 @@ LEVEL 2 COMPLETE: Status checked
 LEVEL 3 COMPLETE: Found CLUE-3: SUNSET-19
 LEVEL 4 COMPLETE: fixed the hallway sign
 LEVEL 5 COMPLETE: confirmed working on student-mark-justin-c-ragragio
+LEVEL 6 CHEST CODE: FOX-7
